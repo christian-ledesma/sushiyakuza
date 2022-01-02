@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e69ee639-964a-466f-af3b-0bdcf47602f0": {
+      "ProjectGuid": "e69ee639-964a-466f-af3b-0bdcf47602f0",
+      "DisplayName": "Yakuza.Web",
+      "ColorIndex": 0
+    },
+    "287cc76c-2935-4d3d-a2d1-b5d25af8144e": {
+      "ProjectGuid": "287cc76c-2935-4d3d-a2d1-b5d25af8144e",
+      "DisplayName": "Yakuza.Services.ProductAPI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
